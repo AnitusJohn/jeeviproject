@@ -75,7 +75,7 @@ h6 {
 	display: none;
 }
 .nav-scroll {
-	background: linear-gradient(to left, #ffcfa6, #000);
+	background: linear-gradient(to left, #fda1fb, #000);
 	/* background: linear-gradient(to left, #df409a, #000); */
 	/* background: linear-gradient(to left, #4cccd9, #464a58); */
 
@@ -107,7 +107,7 @@ h6 {
 .banner {
 	/* background: #7a60ff; */
 	/* background: linear-gradient(to left, #036, #000); */
-	background: linear-gradient(to left, #ffcfa6, #000);
+	background: linear-gradient(to left, #fda1fb, #000);
 	/* background: linear-gradient(to left, #4cccd9, #464a58); */
 	padding:100px 0px;
 	position:relative;
@@ -200,7 +200,7 @@ h6 {
 	height: 135px;
 	border-radius: 100px;
 	background: #7a60ff;
-	background: linear-gradient(to left, #ffcfa6, #000);
+	background: linear-gradient(to left, #fda1fb, #000);
 	color: #ffffff;
 	font-size: 50px;
 	line-height: 135px;
@@ -476,7 +476,7 @@ input {
 	border-radius: 2rem;
 	border: 0;
 	background: #7a60ff;
-	background: linear-gradient(to left, #df409a, #000);
+	background: linear-gradient(to left, #fda1fb, #000);
 	cursor:pointer;
 }
 
@@ -484,7 +484,7 @@ input {
 	padding: 2rem 2rem 1rem;
 	border-radius: 8px;
 	background: #7a60ff;
-	background: linear-gradient(to left, #ffcfa6, #000);
+	background: linear-gradient(to left, #fda1fb, #000);
 }
 
 
@@ -672,7 +672,7 @@ h3 {
 
 .btn_Read_more{
     display: inline-block;
-    color: #ffcfa6;
+    color: #fda1fb;
     background: #fff;
     border: 1px solid ;
     font-weight: 700;
@@ -682,7 +682,7 @@ h3 {
 
 .btn_Read_more:hover{
     color: #fff;
-	background: linear-gradient(to left, #ffcfa6, #000000);
+	background: linear-gradient(to left, #fda1fb, #000000);
     border: 1px solid#fff;
 }
 
@@ -720,7 +720,7 @@ h3 {
 	border: 1px solid;
   }
   .card_body_each_a a span {
-	color: #ffcfa6;
+	color: #fda1fb;
 	font-size: 20px;
 	font-weight: 600;
 	height: 50px;
@@ -750,7 +750,7 @@ h3 {
 	border-radius: 50px !important;
 	border: 1px solid transparent;
 	background-color: #001828;
-	background-image: linear-gradient(120deg, #000, #ffcfa6);
+	background-image: linear-gradient(120deg, #000, #fda1fb);
 	/* background-image: linear-gradient(159deg, #243b4a, #2a2d3c); */
 	/* box-shadow: inset -1px -1px 10px 0 rgba(32, 27, 61, 0.93), inset 1px 1px 3px 0 rgb(47, 53, 71), 1px 1px 2px 0 #000410; */
   }
@@ -765,7 +765,7 @@ h3 {
 	border: 1px solid transparent;
 	background-color: #001828;
 	text-decoration: none;
-	background-image: linear-gradient(120deg, #ffcfa6, #000);
+	background-image: linear-gradient(120deg, #fda1fb, #000);
 	/* background-image: linear-gradient(159deg, #243b4a, #2a2d3c); */
 	/* box-shadow: inset -1px -1px 10px 0 rgba(32, 27, 61, 0.93), inset 1px 1px 3px 0 rgb(47, 53, 71), 1px 1px 2px 0 #000410; */
 
